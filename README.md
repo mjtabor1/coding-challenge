@@ -35,3 +35,12 @@ Below are some links to projects that I've worked on.
 
 1. [Web Scraping Application:](https://github.com/mjtabor1/TTA-Python-Projects/tree/master/TravelScrape)
     - Description: App where I used a 3rd party API to gather information and display it to the weather information page. This was done using django. See the projects readme file for more information.
+    
+2. [Phonebook App:](https://github.com/mjtabor1/TTA-Python-Projects/tree/master/PhoneBookApp)
+    - Description: Used python and the tkinter library to creat a GUI that allows the user to add, edit and delete entries from a phonebook.
+    
+3. [Tic-Tac-Toe:](https://mjtabor1.github.io/demos/TicTacToe/TicTacToe.html)
+    - The link I provided is a direct link to try the game out for yourself. You can also view the projects source code [here](https://github.com/mjtabor1/TTA-Large-JavaScript-Projects/tree/master/TicTacToe). I created this app using JavaScript, HTML and CSS. It was a fun app that I had help creating during my time at The Tech Academy. 
+    
+4. [Alien Invasion Game:](https://github.com/mjtabor1/Personal-Python-Projects/tree/master/alien_invasionGame1)
+    - This is a game that emulates the old atari space invaders game. I learned how to create this app through the book "Python Crash Course" by Eric Matthes. As you can see Python is my favorite language and I'm always learning new ways of how to use it. This app was made by using the Pygame modules. As you continue to shoot down all of the alien ships the levels increase in difficulty. Some of the functionality that I added was to keep score while playing the game and even keep record of the highest score!
