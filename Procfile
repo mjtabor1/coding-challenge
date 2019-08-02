@@ -1,0 +1,1 @@
+web: gunicorn referral_marketing.wsgi --log-file -

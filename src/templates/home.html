@@ -1,0 +1,37 @@
+{% load static %}<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Referrals</title>
+        <link rel="stylesheet" href="{% static 'css/bootstrap.min.css' %}">
+    </head>
+    <body>
+        <div class="container">
+            <ol class="breadcrumb my-4">
+                <li class="breadcrumb-item active">Referrals</li>
+            </ol>
+
+            <table class="table">
+                <thead class="thead-inverse">
+                    <tr>
+                        <th>Referral Link</th>
+                        <th>Clicks</th>
+                    </tr>
+                </thead>
+                <tbody>
+                {% for referral in referrals %}
+                    <tr>
+                        <td>
+                            <a href="{% url 'landing_page' referral.pk %}">{{ referral.name }}</a>
+                        </td>
+
+
+                        <td class="align-middle">{{ x.hits }}</td>
+
+                    </tr>
+                {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </body>
+</html>
