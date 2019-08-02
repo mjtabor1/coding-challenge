@@ -1,1 +1,1 @@
-web: gunicorn referral_marketing.wsgi --log-file -
+web: gunicorn --pythonpath src referral_marketing.wsgi --log-file -
