@@ -33,5 +33,5 @@ In order to deploy the app I used Heroku as instructed. The app is up and runnin
 
 Below are some links to projects that I've worked on. 
 
-* [Web Scraping Application:](https://github.com/mjtabor1/TTA-Python-Projects/tree/master/TravelScrape)
-..* Description: You'll find the full details of the app and what I contributed too in the projects readme file. 
+1. [Web Scraping Application:](https://github.com/mjtabor1/TTA-Python-Projects/tree/master/TravelScrape)
+    - Description: You'll find the full details of the app and what I contributed too in the projects readme file. 
