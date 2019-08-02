@@ -47,3 +47,6 @@ Below are some links to projects that I've worked on.
     
 5. [Personal Website](https://mjtabor1.github.io/index.html)
     - One of the projects that I'm most proud of is my personal website. I enjoy making tweaks and changes to it and adding new stuff all the time. This website was created through the use of bootstrap libraries and hosted on Github. If you navigate to my portfolio you will find clickable pictures that lead to my projects github repos. Some other features are at the home page in the skills sections where you can view pop-up windows of the skills that I currently have and am looking to achieve. 
+    
+## Conclusion
+Again thank you very much for this opportunity. I hope that I have done enough to move on for further consideration. I'm very passionate about software development and am always trying to develop new skills. One of the areas that I would like to approve upon if I were to spend more time on this challenge would be to learn how to use React to create a full stack application. That along with figuring out the click counter of course. I hope to hear from the team at Ambassador soon!
